@@ -47,19 +47,16 @@ For easy query, 3 buttons are hanging on top:
 
 (2) Read Rules: English, Traditional & Simplified Chinese are offered.
 Now you know where I am from 🤭
-
-![Rules](Demos/Multi Language Rules.jpg)
+![Rules](Demos/Multi-Language-Rules.jpg)
 
 (3) Income Statement: 💸 income flow is well recorded like a bank 🏦
-
-![Income Flow](Demos/Income Flow.jpg)
+![Income Flow](Demos/Income-Flow.jpg)
 
 The rest is, as said before, all about using keyboard ,mouse and scroll to proceed.
 
 ### 🎉 Winner Winner Chicken Dinner 🦃
 Congratulate whoever wins big in a single round 🤑
-
-![Winner Winner Chicken Dinner](Demos/Winner Winner Chicken Dinner.jpg)
+![Winner Winner Chicken Dinner](Demos/Winner-Winner-Chicken-Dinner.jpg)
 
 ### Bankruptcy 😥
 Game over happens when you lose too much.
@@ -78,6 +75,5 @@ Screenshots are very helpful especially if you find bugs~
 I may not answer immediately, but I'll try my best to answer and fix anything you post 😬
 
 Hope everyone enjoys Jack's Online Blackjack and encounter as many Blackjacks as you can 🍻
-
-![Double Blackjack](Demos/Double Blackjack.jpg)
+![Double Blackjack](Demos/Double-Blackjack.jpg)
 (I once had two Blackjacks in a single round hahaha)
