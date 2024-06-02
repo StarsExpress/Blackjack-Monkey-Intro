@@ -10,9 +10,9 @@ For better view, please use PC or tablets to play this game~
 # Blackjack: Probabilities Game 🔢
 Don't worry if you aren't familiar with Blackjack. Check it out: https://www.wikihow.com/Play-Blackjack
 
-https://www.wikihow.com/Sample/Blackjack-Rules: casinos typically share general rules, and only differ in a few variations.
+https://www.wikihow.com/Sample/Blackjack-Rules: casinos share general rules, and differ in a few variations.
 
-https://www.wikihow.com/Sample/Blackjack-Chart: each variation has its own basic strategy. Here is a general version.
+https://www.wikihow.com/Sample/Blackjack-Chart: each variation has own basic strategy. Here is a general version.
 
 For more info, just Google "Blackjack Rules" & "Blackjack Basic Strategy".
 
@@ -47,15 +47,18 @@ For easy query, 3 buttons are hanging on top:
 
 (2) Read Rules: English, Traditional & Simplified Chinese are offered.
 Now you know where I am from 🤭
+
 ![Rules](Demos/Multi Language Rules.jpg)
 
 (3) Income Statement: 💸 income flow is well recorded like a bank 🏦
+
 ![Income Flow](Demos/Income Flow.jpg)
 
 The rest is, as said before, all about using keyboard ,mouse and scroll to proceed.
 
 ### 🎉 Winner Winner Chicken Dinner 🦃
 Congratulate whoever wins big in a single round 🤑
+
 ![Winner Winner Chicken Dinner](Demos/Winner Winner Chicken Dinner.jpg)
 
 ### Bankruptcy 😥
@@ -75,5 +78,6 @@ Screenshots are very helpful especially if you find bugs~
 I may not answer immediately, but I'll try my best to answer and fix anything you post 😬
 
 Hope everyone enjoys Jack's Online Blackjack and encounter as many Blackjacks as you can 🍻
+
 ![Double Blackjack](Demos/Double Blackjack.jpg)
 (I once had two Blackjacks in a single round hahaha)
