@@ -8,13 +8,11 @@ For better view, please use PC or tablets to play this game~
 (Trust me, you won't like the view on smartphone browsers lol)
 
 # Blackjack: Probabilities Game 🔢
-Don't worry if you aren't familiar with Blackjack. Check these out.
+Don't worry if you aren't familiar with Blackjack. Check it out: https://www.wikihow.com/Play-Blackjack
 
-[General Rules](Basics/General Rules.pdf): casinos typically share general rules, and only differ in a few variations.
+https://www.wikihow.com/Sample/Blackjack-Rules: casinos typically share general rules, and only differ in a few variations.
 
-[Basic Strategy](Basics/Basic Strategy.pdf): each variation has its own basic strategy. Here is a general version.
-
-These PDFs come from this website: https://www.wikihow.com/Play-Blackjack
+https://www.wikihow.com/Sample/Blackjack-Chart: each variation has its own basic strategy. Here is a general version.
 
 For more info, just Google "Blackjack Rules" & "Blackjack Basic Strategy".
 
