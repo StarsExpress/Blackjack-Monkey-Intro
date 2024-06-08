@@ -51,8 +51,7 @@ Now you know where I am from 🤭
 
 (3) Income Statement: 💸 income flow is well recorded like a bank 🏦
 ![Income Flow](Demos/Income-Flow.jpg)
-
-The rest is, as said before, all about using keyboard ,mouse and scroll to proceed.
+(Still unbelievable non-losing flow……🤣)
 
 ### 🎉 Winner Winner Chicken Dinner 🦃
 Congratulate whoever wins big in a single round 🤑
